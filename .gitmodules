@@ -112,3 +112,6 @@
 [submodule "extensions/checkout"]
 	path = extensions/checkout
 	url = git@github.com:davjand/Checkout
+[submodule "extensions/checkout-gateway-sagepay"]
+	path = extensions/checkout-gateway-sagepay
+	url = git@github.com:davjand/checkout-gateway-sagepay
