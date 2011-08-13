@@ -109,3 +109,6 @@
 [submodule "extensions/jit_image_manipulation"]
 	path = extensions/jit_image_manipulation
 	url = git://github.com/klaftertief/jit_image_manipulation.git
+[submodule "extensions/checkout"]
+	path = extensions/checkout
+	url = git@github.com:davjand/Checkout
