@@ -1,0 +1,50 @@
+/* CSS typography Document 
+ * Basic Typography for standard headings, paragraphs and links
+*/
+
+body {
+	font: 14px/22px Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+a:link, a:visited,  a:active {
+
+}
+
+a:hover {
+
+}
+
+
+h1{
+
+	
+}
+
+h2{
+
+
+}
+	
+h3{
+
+}
+h4 {
+
+
+
+p {
+	margin: 10px 0px;
+}
+
+
+
+
+.type-reset h1, .type-reset h2, .type-reset h3, .type-reset h4, .type-reset h5, .type-reset ul, .type-reset ol{
+margin: 0px;
+padding: 0px;	
+}
+
+
+/*custom styles*/
+
