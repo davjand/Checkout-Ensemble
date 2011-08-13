@@ -10,9 +10,6 @@
 [submodule "extensions/selectbox_link_field"]
 	path = extensions/selectbox_link_field
 	url = git://github.com/symphonycms/selectbox_link_field.git
-[submodule "extensions/jit_image_manipulation"]
-	path = extensions/jit_image_manipulation
-	url = git://github.com/symphonycms/jit_image_manipulation.git
 [submodule "extensions/profiledevkit"]
 	path = extensions/profiledevkit
 	url = git://github.com/symphonycms/profiledevkit.git
@@ -22,3 +19,93 @@
 [submodule "extensions/xssfilter"]
 	path = extensions/xssfilter
 	url = git://github.com/symphonycms/xssfilter.git
+[submodule "extensions/asdc"]
+	path = extensions/asdc
+	url = git://github.com/pointybeard/asdc.git
+[submodule "extensions/better_forms"]
+	path = extensions/better_forms
+	url = git://github.com/davjand/better_forms.git
+[submodule "extensions/configuration"]
+	path = extensions/configuration
+	url = git://github.com/davjand/configuration.git
+[submodule "extensions/ckeditor"]
+	path = extensions/ckeditor
+	url = git://github.com/kanduvisla/symphony-ckeditor.git
+[submodule "extensions/datemodified"]
+	path = extensions/datemodified
+	url = git://github.com/czheng/datemodified.git
+[submodule "extensions/documenter"]
+	path = extensions/documenter
+	url = git://github.com/czheng/documenter.git
+[submodule "extensions/dashboard"]
+	path = extensions/dashboard
+	url = git://github.com/nickdunn/dashboard.git
+[submodule "extensions/datetime"]
+	path = extensions/datetime
+	url = git://github.com/nilshoerrmann/datetime.git
+[submodule "extensions/default_event_values"]
+	path = extensions/default_event_values
+	url = git://github.com/brendo/default_event_values.git
+[submodule "extensions/edui"]
+	path = extensions/edui
+	url = git://github.com/eKoeS/edui.git
+[submodule "extensions/entity_diagram"]
+	path = extensions/entity_diagram
+	url = git://github.com/nickdunn/entity_diagram.git
+[submodule "extensions/globalresourceloader"]
+	path = extensions/globalresourceloader
+	url = git://github.com/rowan-lewis/globalresourceloader.git
+[submodule "extensions/html_panel"]
+	path = extensions/html_panel
+	url = git://github.com/nickdunn/html_panel.git
+[submodule "extensions/importcsv"]
+	path = extensions/importcsv
+	url = git://github.com/kanduvisla/importcsv.git
+[submodule "extensions/imagecropper"]
+	path = extensions/imagecropper
+	url = git://github.com/klaftertief/imagecropper.git
+[submodule "extensions/incrementnumberfield"]
+	path = extensions/incrementnumberfield
+	url = git://github.com/nickdunn/incrementnumberfield.git
+[submodule "extensions/numberfield"]
+	path = extensions/numberfield
+	url = git://github.com/symphonycms/numberfield.git
+[submodule "extensions/order_entries"]
+	path = extensions/order_entries
+	url = git://github.com/nickdunn/order_entries.git
+[submodule "extensions/publish_tabs"]
+	path = extensions/publish_tabs
+	url = git://github.com/nickdunn/publish_tabs.git
+[submodule "extensions/publishfiltering"]
+	path = extensions/publishfiltering
+	url = git://github.com/davjand/publishfiltering.git
+[submodule "extensions/quickds"]
+	path = extensions/quickds
+	url = git://github.com/knupska/quickds.git
+[submodule "extensions/quickevent"]
+	path = extensions/quickevent
+	url = git://github.com/knupska/quickevent.git
+[submodule "extensions/sortdatasourcebyparam"]
+	path = extensions/sortdatasourcebyparam
+	url = git://github.com/ahwayakchih/sortdatasourcebyparam.git
+[submodule "extensions/search_index"]
+	path = extensions/search_index
+	url = git://github.com/nickdunn/search_index.git
+[submodule "extensions/symql"]
+	path = extensions/symql
+	url = git://github.com/nickdunn/symql.git
+[submodule "extensions/subsectionmanager"]
+	path = extensions/subsectionmanager
+	url = git://github.com/nilshoerrmann/subsectionmanager.git
+[submodule "extensions/static_section"]
+	path = extensions/static_section
+	url = git://github.com/Solutions-Nitriques/static_section.git
+[submodule "extensions/uniqueuploadfield"]
+	path = extensions/uniqueuploadfield
+	url = git://github.com/michael-e/uniqueuploadfield.git
+[submodule "extensions/save_and_return"]
+	path = extensions/save_and_return
+	url = git://github.com/Solutions-Nitriques/save_and_return.git
+[submodule "extensions/jit_image_manipulation"]
+	path = extensions/jit_image_manipulation
+	url = git://github.com/klaftertief/jit_image_manipulation.git
